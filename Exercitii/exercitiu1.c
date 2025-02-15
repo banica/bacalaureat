@@ -1,3 +1,5 @@
+// Exercitiu 1 din culegerea de admitere la UPB
+
 #include<iostream>
 #include<cstring>
 using namespacestd;
